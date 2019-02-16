@@ -9,7 +9,6 @@ public abstract class Tomato implements Vegetable {
     private final float fruitDiameter;
 
 
-
     public Tomato(final float height, final float fruitDiameter){
         this.height = height;
         this.fruitDiameter = fruitDiameter;

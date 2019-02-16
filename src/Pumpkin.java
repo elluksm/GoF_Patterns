@@ -11,10 +11,10 @@ public class Pumpkin implements Vegetable {
     }
 
     public void plant() {
-        System.out.println("Pumpkin is planted in the garden");
+        System.out.println("Pumpkin is planted in the garden.");
     }
 
     public void pickFruits() {
-        System.out.println("Picking pumpkin fruits in the late autumn");
+        System.out.println("Picking pumpkin fruits in the late autumn.");
     }
 }
