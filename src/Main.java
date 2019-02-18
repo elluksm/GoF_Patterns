@@ -1,3 +1,10 @@
+import gardener.*;
+import insect.InsectRepository;
+import insect.Iterator;
+import vegetable.Vegetable;
+import vegetable.VegetableFactory;
+import vegetable.VegetableType;
+
 import java.util.LinkedList;
 import java.util.List;
 
